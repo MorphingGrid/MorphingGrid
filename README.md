@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MorphingGrid
-- 🌱 I’m currently learning Rstudio and Python for Machine Learning
+- 🌱 I’m currently learning Python and SQL for Statistics and Data Engineering
 - 🤠 I'm currently studying Statistics at the University of Central Florida
 
 <!---
