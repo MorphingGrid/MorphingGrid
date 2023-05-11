@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MorphingGrid
 - 🌱 I’m currently learning Python and SQL for Statistics and Data Engineering
-- 🤠 I'm currently studying Statistics at the University of Central Florida
+- 🤠 I'm currently going for a MS in Data Analytics at UCF
 
 <!---
 MorphingGrid/MorphingGrid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
